@@ -1,0 +1,16 @@
+1. Install git
+2. create github acc and create new repository 
+3. Go to terminal/ cmd and write below commands
+
+git config --global user.name "Nayna Koju"
+git config --global user.email"kojunayna@gmail.com"
+
+git init
+git add .
+git commit -m "Your commit msg"
+copy paste git commands from github new repository
+
+changes 
+git add.
+git commit -m "Add git tutorial codes"
+git push origin
